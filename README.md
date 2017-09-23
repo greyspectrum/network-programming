@@ -1,2 +1,2 @@
 # network-programming
-Working my way through "Unix Network Programming."
+"One day, a computer wanted to issue a command to an online service. This simple dream resulted in the generation of 16 gajillion messages. An attacker may try to interfere with the reception of 1/f of these messages. Luckily, 1/f is much less than a gajillion for any reasonable value of f. Thus, at least 15 gajillion messages will survive the attacker’s interference. These messages will do things that only Cthulu understands; we are at peace with his dreadful mysteries, and we hope that you feel the same way." - [James Mickens](https://www.usenix.org/system/files/login-logout_1305_mickens.pdf)
